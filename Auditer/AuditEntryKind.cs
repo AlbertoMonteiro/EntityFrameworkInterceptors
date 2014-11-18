@@ -1,4 +1,4 @@
-namespace EntityFrameworkInterceptors
+namespace Auditer
 {
     public enum AuditEntryKind
     {

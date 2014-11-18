@@ -1,5 +1,4 @@
 ﻿using System.Data.Entity;
-using EntityFrameworkInterceptors.Migrations;
 
 namespace EntityFrameworkInterceptors
 {
